@@ -1,7 +1,6 @@
 {
   "name": "module-dep",
-  "version": "0.1.0",
-  "main": "index.js",
+  "version": "1.0.0",
   "author": "Gabriel Duarte <gabrielqduarte@gmail.com> (https://github.com/GabrielDuarteM/)",
   "license": "MIT",
   "scripts": {

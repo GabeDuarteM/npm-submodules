@@ -2,8 +2,8 @@ var path = require("path")
 var webpack = require("webpack")
 
 const entry = {
-  modulo1: "./src/Modulo1/index.js",
-  modulo2: "./src/Modulo2/index.js",
+  module1: "./src/module1/index.js",
+  module2: "./src/module2/index.js",
 }
 
 var options = {

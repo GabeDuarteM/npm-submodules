@@ -1,4 +1,6 @@
 {
+  "name": "module2",
+  "version": "1.0.0",
   "dependencies": {
     "material-ui": "next",
     "react": "^15.6.1",
